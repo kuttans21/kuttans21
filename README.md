@@ -12,8 +12,6 @@ Data science projects that involve NLP, predictive modeling, or deep learning ap
 ### 📫 **How to reach me:** <br>
   You can find me on [LinkedIn](https://www.linkedin.com/in/ananya-dileep-a0618a210/) for professional connections for any project inquiries or collaboration opportunities. 
 
-### 😄 **Pronouns:** She/her
-
 Thanks for stopping by! 😊
 
 ---
